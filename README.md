@@ -2,4 +2,4 @@
 
 Glass dashboard page
 
-![Screenshot](./secreenshot.png)
+![Screenshot](./screenshot.png)
